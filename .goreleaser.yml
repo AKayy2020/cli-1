@@ -42,7 +42,7 @@ archives:
     format: zip
 
 brews:
-  - name: gh
+  - name: AlissaClark
     ids: [nix]
     github:
       owner: github
